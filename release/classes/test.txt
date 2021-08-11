@@ -1,0 +1,15 @@
+*** DEMO đồ án cuối kì môn Phương pháp lập trình hướng đối tượng
+
+** Phần mềm quản lí cửa hàng bán laptop
+
+* Chức năng:
+
+1. Chức năng đăng nhập (admin/admin)
+2. CRUD hãng laptop (thêm, sửa, xóa).
+3. Chức năng CRUD sản phẩm laptop (thêm, sửa, xóa).
+4. Chức năng CRUD đơn hàng
+5. Xem sản phẩm sắp hết (< 10) (Out Of Stock).
+6. Xem sản phẩm bán chạy nhất tháng trước (Best Seller).
+7. Xem doanh thu, tổng kết tháng cụ thể
+
+Và đó là kết thúc phần demo chương trình, em xin cảm ơn và kết thúc!
